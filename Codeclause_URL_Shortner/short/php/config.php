@@ -2,7 +2,7 @@
 <?php 
  
 
-$domain = "localhost/url/"; 
+$domain = "localhost/short/"; 
 $host = "localhost";
 $user = "root"; //Database username
 $pass = ""; //Database password
